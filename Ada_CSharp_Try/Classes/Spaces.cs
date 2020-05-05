@@ -25,5 +25,12 @@ namespace Ada_CSharp_Try.Classes
         public double Child_Deviation_Multiplier { get; set; }
 
         public Dimension_Cluster Top_Cluster { get; set; }
+
+
+        public bool Write_Recursion(Dimension_Instance instance, Dimension_Cluster cluster)
+        {
+
+            return false;
+        }
     }
 }
