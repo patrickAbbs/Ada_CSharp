@@ -10,3 +10,5 @@
 /Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/obj/Debug/netcoreapp3.1/Ada_CSharp_Try.dll
 /Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/obj/Debug/netcoreapp3.1/Ada_CSharp_Try.pdb
 /Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/obj/Debug/netcoreapp3.1/Ada_CSharp_Try.genruntimeconfig.cache
+/Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/bin/Debug/netcoreapp3.1/Npgsql.dll
+/Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/obj/Debug/netcoreapp3.1/Ada_CSharp_Try.csproj.CopyComplete
