@@ -34,5 +34,9 @@ namespace Ada_CSharp_Try.Classes
         public double Generated_Magnitude { get; set; }
         public double Cumulative_Interest { get; set; }
         public List<Guid> Matched_Instance_Ids { get; set; }
+
+        //temporary variables - not for persistence
+        public double pre_sibling_inhibition_match_score { get; set; }
+        public double post_sibling_inhibition_match_score { get; set; }
     }
 }

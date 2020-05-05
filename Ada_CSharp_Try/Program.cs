@@ -1,6 +1,7 @@
 ﻿using System;
 using Ada_CSharp_Try.Classes;
-using Npgsql;
+using Ada_CSharp_Try.Instance_Transformers;
+
 
 namespace Ada_CSharp_Try
 {
@@ -10,17 +11,7 @@ namespace Ada_CSharp_Try
         {
             Classes.Dimension_Space Word_Space = new Dimension_Space("word", .4, .34, .03, 5.0, .8);
 
-            var connection_string = "Host=localhost;Username=patrickabbs;Password=password;Database=ada_csharp";
-
-            using var connection = new NpgsqlConnection(connection_string);
-            connection.Open();
-
-            var sql = "SELECT version()";
-
-            using var cmd = new NpgsqlCommand(sql, connection);
-
-            var version = cmd.ExecuteScalar().ToString();
-            Console.WriteLine($"PostgreSQL version: {version}");
+            Word_Instance_Transformer word_Instance_Transformer = new Word_Instance_Transformer();
 
             Console.WriteLine(Word_Space.Space_Name);
             Console.WriteLine("Hello World!");
