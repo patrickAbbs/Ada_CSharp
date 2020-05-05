@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Ada_CSharp_Try.Classes;
 using Ada_CSharp_Try.Instance_Transformers;
 
@@ -12,6 +13,10 @@ namespace Ada_CSharp_Try
             Classes.Dimension_Space Word_Space = new Dimension_Space("word", .4, .34, .03, 5.0, .8);
 
             Word_Instance_Transformer word_Instance_Transformer = new Word_Instance_Transformer();
+            string test_sentence = "transform me into word embeddings";
+
+            List<Dimension_Instance> word_Instances = word_Instance_Transformer.Transform_Text_Into_Instances(test_sentence);
+
 
             Console.WriteLine(Word_Space.Space_Name);
             Console.WriteLine("Hello World!");
