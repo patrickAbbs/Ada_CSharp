@@ -1,0 +1,12 @@
+/Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/bin/Debug/netcoreapp3.1/Ada_CSharp_Try.deps.json
+/Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/bin/Debug/netcoreapp3.1/Ada_CSharp_Try.runtimeconfig.json
+/Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/bin/Debug/netcoreapp3.1/Ada_CSharp_Try.runtimeconfig.dev.json
+/Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/bin/Debug/netcoreapp3.1/Ada_CSharp_Try.dll
+/Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/bin/Debug/netcoreapp3.1/Ada_CSharp_Try.pdb
+/Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/obj/Debug/netcoreapp3.1/Ada_CSharp_Try.csprojAssemblyReference.cache
+/Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/obj/Debug/netcoreapp3.1/Ada_CSharp_Try.csproj.CoreCompileInputs.cache
+/Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/obj/Debug/netcoreapp3.1/Ada_CSharp_Try.AssemblyInfoInputs.cache
+/Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/obj/Debug/netcoreapp3.1/Ada_CSharp_Try.AssemblyInfo.cs
+/Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/obj/Debug/netcoreapp3.1/Ada_CSharp_Try.dll
+/Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/obj/Debug/netcoreapp3.1/Ada_CSharp_Try.pdb
+/Users/patrickabbs/Projects/Ada_CSharp_Try/Ada_CSharp_Try/obj/Debug/netcoreapp3.1/Ada_CSharp_Try.genruntimeconfig.cache

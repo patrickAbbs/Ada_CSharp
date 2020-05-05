@@ -1,21 +1,27 @@
 ﻿<Properties StartupConfiguration="{2C1DFCFE-7BE9-4CD8-8161-8063C3A3A75A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Ada_CSharp_Try/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ada_CSharp_Try/Classes/Clusters.cs">
     <Files>
-      <File FileName="Ada_CSharp_Try/Program.cs" Line="1" Column="1" />
+      <File FileName="Ada_CSharp_Try/Program.cs" Line="11" Column="54" />
+      <File FileName="Ada_CSharp_Try/Classes/Spaces.cs" Line="3" Column="2" />
+      <File FileName="Ada_CSharp_Try/Classes/Clusters.cs" Line="8" Column="53" />
+      <File FileName="Ada_CSharp_Try/Classes/Instances.cs" Line="12" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Ada_CSharp_Try" expanded="True">
-            <Node name="Ada_CSharp_Try" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="Ada_CSharp_Try" expanded="True" selected="True">
+              <Node name="Classes" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Ada__CSharp__Try FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ada__CSharp__Try PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

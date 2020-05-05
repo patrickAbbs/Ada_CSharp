@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ada_CSharp_Try/1.0.0": {
+        "runtime": {
+          "Ada_CSharp_Try.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ada_CSharp_Try/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
